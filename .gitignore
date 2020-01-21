@@ -1,0 +1,10 @@
+completions/*
+conf.d/*
+fish_history
+fish_variables
+fishd.*
+fish_read_history
+functions/__*
+functions/fisher.fish
+functions/nvm.fish
+functions/private/*
