@@ -8,3 +8,5 @@ functions/__*
 functions/fisher.fish
 functions/nvm.fish
 functions/private/*
+functions/_nvm_*
+
